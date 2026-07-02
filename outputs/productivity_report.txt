@@ -1,0 +1,34 @@
+Developer Shortcut Toolkit Using Aliases
+Objective:
+To improve developer productivity by creating custom aliases for frequently used commands.
+Aliases Created:
+1.	startweb
+Command:
+alias startweb='sudo systemctl start apache2'
+Purpose:
+Starts the Apache web server quickly without typing the full command.
+2.	goproj
+Command:
+alias goproj='cd ~/projects'
+Purpose:
+Provides instant navigation to the project directory.
+3.	clogs
+Command:
+alias clogs='tail -f /var/log/syslog'
+Purpose:
+Displays live system logs for monitoring and troubleshooting.
+4.	updateall
+Command:
+alias updateall='sudo apt update && sudo apt upgrade -y'
+Purpose:
+Updates all installed packages using a single command.
+Benefits:
+•	Reduces typing effort.
+•	Saves time.
+•	Minimizes command errors.
+•	Improves workflow efficiency.
+•	Provides quick access to commonly used tasks.
+Conclusion:
+Custom aliases significantly improve productivity by simplifying repetitive Linux commands into short and memorable shortcuts.
+
+
