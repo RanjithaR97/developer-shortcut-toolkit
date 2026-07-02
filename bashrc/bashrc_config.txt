@@ -1,0 +1,7 @@
+alias startweb='sudo systemctl start apache2'
+
+alias goproj='cd ~/projects'
+
+alias clogs='tail -f /var/log/syslog'
+
+alias updateall='sudo apt update && sudo apt upgrade -y'
