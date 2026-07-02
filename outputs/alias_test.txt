@@ -1,0 +1,17 @@
+startweb
+
+goproj
+
+clogs
+
+updateall
+
+output:
+Apache service started successfully.
+
+Current directory:
+/home/ranjitha/projects
+
+Displaying system logs...
+
+Packages updated successfully.
