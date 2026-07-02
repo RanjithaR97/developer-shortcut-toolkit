@@ -125,18 +125,8 @@ developer-shortcut-toolkit/
 
 ---
 
-## Screenshots
-
-This project includes screenshots demonstrating:
-
-- Editing the `.bashrc` configuration file
-- Reloading `.bashrc` using `source ~/.bashrc`
-- Viewing configured aliases
-- Executing the `startweb` alias
-- Navigating using the `goproj` alias
-- Monitoring logs using the `clogs` alias
-- Updating packages using the `updateall` alias
-- Verifying alias configuration
+#Output
+Screenshots of output are uploaded in outputs folder
 
 ---
 
